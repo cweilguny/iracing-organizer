@@ -2,6 +2,8 @@
 
 iRacing Organizer is a single file iRacing season calendar that shows the whole season for multiple series at a glance.
 
+View the current version at https://cweilguny.github.io/iracing-organizer/.
+
 
 ## Data
 
@@ -17,4 +19,4 @@ Feel free to fork this repository or even just copy the index.html to fill it wi
 
 ## Usage
 
-Just drop the index.html on a webserver or place it locally and open the file in your browser.
+Just drop the index.html on a webserver, create a GitHub page, or place it locally and open the file in your browser.
